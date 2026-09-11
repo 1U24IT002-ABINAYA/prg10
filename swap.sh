@@ -5,6 +5,7 @@
 # Student Name:abinaya
 # Roll Number:1U24IT002
 # =====================================
+# Write your commands below
 # Create a 1 GB swap file
 sudo fallocate -l 1G /swapfile
 
@@ -22,6 +23,6 @@ sudo swapon --show
 free -h
 
 exit 0
-# Write your commands below
+
 
 
